@@ -762,7 +762,6 @@
 127.0.0.1	apo-101.biz
 127.0.0.1	apotekse.com
 127.0.0.1	apotheke-de.biz
-127.0.0.1	app.getresponse.com
 127.0.0.1	apple-online.shop
 127.0.0.1	approvedonlinemeds.com
 127.0.0.1	approvedtablets.com
@@ -802,7 +801,6 @@
 127.0.0.1	asikam.ru
 127.0.0.1	astridlynde.ru
 127.0.0.1	astroandhealing.com
-127.0.0.1	astrovektor.ru
 127.0.0.1	asug.org.ar
 127.0.0.1	atarax.ws
 127.0.0.1	atlantedanny.asia
@@ -880,7 +878,6 @@
 127.0.0.1	beautysale.su
 127.0.0.1	beckichristiana.ru
 127.0.0.1	beedenni.asia
-127.0.0.1	behinfoam.com
 127.0.0.1	belklucy.com
 127.0.0.1	bell.webmail-email.com
 127.0.0.1	bellybutton-rings.com
@@ -929,7 +926,6 @@
 127.0.0.1	bestdrugwebmart.ru
 127.0.0.1	bestedeuro.com
 127.0.0.1	bestedproducts.com
-127.0.0.1	besteventk.su
 127.0.0.1	besteversale.ru
 127.0.0.1	bestfastmart.ru
 127.0.0.1	bestfastprogram.com
@@ -1101,7 +1097,6 @@
 127.0.0.1	bleuepil.com
 127.0.0.1	blisselilly.be
 127.0.0.1	blissive.com
-127.0.0.1	blog.diffuse.co.nz
 127.0.0.1	blondydrusi.ru
 127.0.0.1	bloommantra.com
 127.0.0.1	blue-pill-shop.com
@@ -1589,9 +1584,6 @@
 127.0.0.1	cbpalberta.com
 127.0.0.1	cbustamanteb.xn--80abpywo0h.xn--p1ai
 127.0.0.1	cbyc.discountforuma.su
-127.0.0.1	cdn-ch.org
-127.0.0.1	cdn-cloud.pw
-127.0.0.1	cdnanalytics.net
 127.0.0.1	cdsales.xn--90atdqz2d.xn--p1ai
 127.0.0.1	cdssf.com
 127.0.0.1	cdurable.info
@@ -2072,7 +2064,6 @@
 127.0.0.1	corillanell.com
 127.0.0.1	corimicaela.ru
 127.0.0.1	corinnakassey.su
-127.0.0.1	cornerstone-arch.com
 127.0.0.1	corniemerrily.ru
 127.0.0.1	cortneywilmette.ru
 127.0.0.1	costanzaandi.su
@@ -2122,7 +2113,6 @@
 127.0.0.1	cytotecgrx.com
 127.0.0.1	czu.targetxweb.su
 127.0.0.1	d--store.com
-127.0.0.1	d3shatter.website
 127.0.0.1	daceydyanna.ru
 127.0.0.1	daffiemartynne.su
 127.0.0.1	dailyshopt.su
@@ -2144,7 +2134,6 @@
 127.0.0.1	darcierenelle.ru
 127.0.0.1	darcikalie.ru
 127.0.0.1	darlenepoohkati.su
-127.0.0.1	darzikraft.com
 127.0.0.1	dashpharmacy-com.256bit-ssl-checkout.com
 127.0.0.1	dathadawnnadia.be
 127.0.0.1	daveallenmusician.info
@@ -2169,7 +2158,6 @@
 127.0.0.1	dduyhhssa.hotpricea.su
 127.0.0.1	de-online-apotheke.com
 127.0.0.1	de.alledstore.com
-127.0.0.1	de.bloomfloweres.com
 127.0.0.1	de.medsplaza.com
 127.0.0.1	de.saferxmd.com
 127.0.0.1	dean.xn--80adinac0a4h.xn--p1ai
@@ -2219,7 +2207,6 @@
 127.0.0.1	dietreviews.name
 127.0.0.1	diflucan.ws
 127.0.0.1	diflucanenligne.com
-127.0.0.1	digitalgoldrush.club
 127.0.0.1	direct-pharm.com
 127.0.0.1	direct123rxbest.ru
 127.0.0.1	directaaapharm.ru
@@ -2368,7 +2355,6 @@
 127.0.0.1	dysfonctionerectile.org
 127.0.0.1	dzupjohtiz.webordertopa.su
 127.0.0.1	e-genericviagra.com
-127.0.0.1	e-lempara.com
 127.0.0.1	e24rx.com
 127.0.0.1	eabutugmod.stockmarketa.su
 127.0.0.1	eagleglassdeco.com
@@ -2462,7 +2448,6 @@
 127.0.0.1	emerion.com
 127.0.0.1	emetetnps.smallpriceg.su
 127.0.0.1	emogenecindelyn.su
-127.0.0.1	engineer.chandlerleadership.com
 127.0.0.1	engineertalatcompany.com
 127.0.0.1	enjoysale.ru
 127.0.0.1	ennis.xn--80arcbgt0b.xn--p1ai
@@ -2815,7 +2800,6 @@
 127.0.0.1	fruitiondevelopments.com
 127.0.0.1	fscokeekec.bestntarget.su
 127.0.0.1	ftp.safedrugstock.com
-127.0.0.1	fukuchan-noujou.com
 127.0.0.1	fulviagermana.ru
 127.0.0.1	future.privatefaststore.ru
 127.0.0.1	fvbviagrahnas.com
@@ -2975,7 +2959,6 @@
 127.0.0.1	generiqueviagra.ws
 127.0.0.1	genevievecarmelina.ru
 127.0.0.1	geniaamara.su
-127.0.0.1	genieclicks.co.uk
 127.0.0.1	gennaclarisse.com
 127.0.0.1	genpills.to
 127.0.0.1	genuinesteroids.com
@@ -3073,7 +3056,6 @@
 127.0.0.1	gnzylabq.bestshoppingk.su
 127.0.0.1	go-martrx365.ru
 127.0.0.1	go.quali-bid.com
-127.0.0.1	go.tracknetsystem.com
 127.0.0.1	goco.leadsdepot.net
 127.0.0.1	gofro-lavita.ru
 127.0.0.1	gogetrx.com
@@ -3191,7 +3173,6 @@
 127.0.0.1	gtlhoot.onlinestoreh.su
 127.0.0.1	gtoucheque.xn--80arcbgt0b.xn--p1ai
 127.0.0.1	gtviagracan.com
-127.0.0.1	guaranteedmoneysystemapp.com
 127.0.0.1	guglielmajazmin.su
 127.0.0.1	guianovafriburgo.com
 127.0.0.1	guineveredrucie.ru
@@ -3854,7 +3835,6 @@
 127.0.0.1	lenkaconstance.be
 127.0.0.1	leobyleo.ch
 127.0.0.1	leonanietish.su
-127.0.0.1	lereveilcoffee.com
 127.0.0.1	leroni.it
 127.0.0.1	leshiabarbara.ru
 127.0.0.1	leslieloise.com
@@ -4010,7 +3990,6 @@
 127.0.0.1	lorinecamile.ru
 127.0.0.1	lornegwynne.ru
 127.0.0.1	loryconstantia.ru
-127.0.0.1	loss.savannaclimate.com
 127.0.0.1	lottabrittani.ru
 127.0.0.1	lotzuhaici.fastorderd.su
 127.0.0.1	louisemaribeth.su
@@ -4242,7 +4221,6 @@
 127.0.0.1	malindegrete.ru
 127.0.0.1	malissiaxenia.be
 127.0.0.1	malvapraha.cz
-127.0.0.1	mama-framework.com
 127.0.0.1	mandieerminie.asia
 127.0.0.1	manicapost.com
 127.0.0.1	manufacturingexcel.com
@@ -4429,7 +4407,6 @@
 127.0.0.1	megastoretry.ru
 127.0.0.1	mehetabelcamivitia.ru
 127.0.0.1	mehetabeljyoti.ru
-127.0.0.1	mehmetgencsoy.com
 127.0.0.1	melisandradelora.su
 127.0.0.1	memoryvilleinc.com
 127.0.0.1	mens-active.com
@@ -4483,7 +4460,6 @@
 127.0.0.1	misspriss.xn--f1acf4e4a.xn--p1ai
 127.0.0.1	mitzielysha.su
 127.0.0.1	mjrdrbigot.stockclubz.su
-127.0.0.1	mk.customsdesigns.com
 127.0.0.1	mkojoeqexh.megachangew.su
 127.0.0.1	mkovc.com
 127.0.0.1	mktechservices.com
@@ -4550,7 +4526,6 @@
 127.0.0.1	mr-webmaster.ru
 127.0.0.1	mramor-i-granit.ru
 127.0.0.1	mrxonline.com
-127.0.0.1	ms.soundclouders.com
 127.0.0.1	ms4u.biz
 127.0.0.1	msh-24.ru
 127.0.0.1	msycioajy.trustclubi.su
@@ -4635,7 +4610,6 @@
 127.0.0.1	mygreattrade.ru
 127.0.0.1	myhealthassist.su
 127.0.0.1	myhealthbargain.ru
-127.0.0.1	myhealthdeal.su
 127.0.0.1	myhealthstore365.com
 127.0.0.1	myherbaloutlet.ru
 127.0.0.1	myherboutlet.su
@@ -5036,7 +5010,6 @@
 127.0.0.1	numerico.info
 127.0.0.1	numidiacloud.top
 127.0.0.1	nwvi.tryforume.su
-127.0.0.1	nyabdmv.org
 127.0.0.1	nyswhbeipy.easylifed.su
 127.0.0.1	oayruuiyui.fastestshopa.su
 127.0.0.1	obfzvk.sk
@@ -5196,7 +5169,6 @@
 127.0.0.1	onlinesimply.ru
 127.0.0.1	onlinestock.su
 127.0.0.1	onlinestoreh.su
-127.0.0.1	onlinesupport1.com
 127.0.0.1	onlinetabsbargain.ru
 127.0.0.1	onlinetabstock.com
 127.0.0.1	onlinetopgenerics.com
@@ -5393,7 +5365,6 @@
 127.0.0.1	pharmacy-health.net
 127.0.0.1	pharmacy-mall.store
 127.0.0.1	pharmacy-online-canada.org
-127.0.0.1	pharmacy-rx-support.com
 127.0.0.1	pharmacy-rx.ru
 127.0.0.1	pharmacy-support-247.com
 127.0.0.1	pharmacy-top-pills-365.com
@@ -5900,7 +5871,6 @@
 127.0.0.1	rupoppers.biz
 127.0.0.1	russian-untouchables.com
 127.0.0.1	rutablet.bestonlajn.ru
-127.0.0.1	ruudfu.dealbesta.su
 127.0.0.1	rvejryw.goodportala.su
 127.0.0.1	rx-24.com
 127.0.0.1	rx-acomplia.com
@@ -6082,7 +6052,6 @@
 127.0.0.1	saideecassi.ru
 127.0.0.1	salebetter.ru
 127.0.0.1	salebuyall.ru
-127.0.0.1	saleclubd.su
 127.0.0.1	saleforlife.ru
 127.0.0.1	salegeneric.com
 127.0.0.1	salegeneric.net
@@ -6168,7 +6137,6 @@
 127.0.0.1	selectionforeu.com
 127.0.0.1	selectionofedta-s.com
 127.0.0.1	selinaabbie.su
-127.0.0.1	selkaryapi.com
 127.0.0.1	semyana.info
 127.0.0.1	semyana.website
 127.0.0.1	sergmd.com
@@ -6246,7 +6214,6 @@
 127.0.0.1	shopyourdream.su
 127.0.0.1	shopyourlife.ru
 127.0.0.1	shoshanaeden.su
-127.0.0.1	shourve.com
 127.0.0.1	showartcenter.com
 127.0.0.1	showme.pp.ua
 127.0.0.1	showvipevent.ru
@@ -6412,7 +6379,6 @@
 127.0.0.1	steffiariana.ru
 127.0.0.1	stendraaustralia.com
 127.0.0.1	stephanienike.com
-127.0.0.1	steps.admediahouse.com
 127.0.0.1	steroidgyms.com
 127.0.0.1	steroidsachet.com
 127.0.0.1	steroidsaustralia.com
@@ -6540,7 +6506,6 @@
 127.0.0.1	support-myidcustomer.com
 127.0.0.1	support-online-support24.com
 127.0.0.1	support-rx-drugs-support.com
-127.0.0.1	support-rx-pharmacy.com
 127.0.0.1	support-rxcustomerservices.com
 127.0.0.1	support-support-1.com
 127.0.0.1	support.256bit-ssl-checkout.com
@@ -6558,7 +6523,6 @@
 127.0.0.1	supportpluse.su
 127.0.0.1	supportplusf.su
 127.0.0.1	supportportal.ru
-127.0.0.1	supportrxsupport.com
 127.0.0.1	supportshopx.su
 127.0.0.1	supportshopy.su
 127.0.0.1	supportshopz.su
@@ -6710,7 +6674,6 @@
 127.0.0.1	theprivateinc.ru
 127.0.0.1	theprivateoutlet.ru
 127.0.0.1	theremedialshop.ru
-127.0.0.1	theresevit.com
 127.0.0.1	therineedna.ru
 127.0.0.1	therxbest.ru
 127.0.0.1	thesafevalue.su
@@ -6725,7 +6688,6 @@
 127.0.0.1	theviraltechblog.com
 127.0.0.1	thewaterdoctor.ie
 127.0.0.1	thick.hotgenericmall.su
-127.0.0.1	thirtykchallenge.com
 127.0.0.1	thjsildenafiljkvc.com
 127.0.0.1	thomasinanallise.ru
 127.0.0.1	thothconsulting.com
@@ -6743,7 +6705,6 @@
 127.0.0.1	tljmltyl.fastpillswebmart.ru
 127.0.0.1	tlpharmacy.net
 127.0.0.1	tmcialisutkfh.com
-127.0.0.1	tmlus.com
 127.0.0.1	tnvg.newdrugsale.link
 127.0.0.1	todogenericos.net
 127.0.0.1	toeujzoxq.luckyhousee.su
@@ -6857,7 +6818,6 @@
 127.0.0.1	training.educ8.co
 127.0.0.1	trainingassetcompany.com
 127.0.0.1	tramadol50.com
-127.0.0.1	transformationmarketer.com
 127.0.0.1	transyesnostress.paczkowska.com
 127.0.0.1	traveljunkies.xyz
 127.0.0.1	trazodone25mg.pw
@@ -6955,7 +6915,6 @@
 127.0.0.1	trustsale.ru
 127.0.0.1	trustsalepro.su
 127.0.0.1	trustship365x7.com
-127.0.0.1	truststorea.su
 127.0.0.1	trustwinother.su
 127.0.0.1	trustworthybillingpage.com
 127.0.0.1	trustymedshop.net
@@ -7085,7 +7044,6 @@
 127.0.0.1	utatlmgyvi.webordertopb.su
 127.0.0.1	utopiamail.net
 127.0.0.1	uttcialisstdjfxhfdj.com
-127.0.0.1	uwagen.win
 127.0.0.1	uxsd.clubsaler.su
 127.0.0.1	uyufcofovb.onlinepricex.su
 127.0.0.1	uyxeyepx.getrestinfom.su
@@ -7381,11 +7339,9 @@
 127.0.0.1	vnacialisfbvn.com
 127.0.0.1	vocj.newdrugsale.link
 127.0.0.1	volleybally.com
-127.0.0.1	volleyhotelistanbul.com
 127.0.0.1	vonnyrahel.su
 127.0.0.1	vorota-ramenskoe.ru
 127.0.0.1	vovuzz.com
-127.0.0.1	voyant.infowebwork.com
 127.0.0.1	vpy.superwink.su
 127.0.0.1	vres.sk
 127.0.0.1	vssathish.top
@@ -7396,7 +7352,6 @@
 127.0.0.1	vybconsulting.com
 127.0.0.1	walliedelora.su
 127.0.0.1	wallyjulee.ru
-127.0.0.1	waterdamagecare.info
 127.0.0.1	wdbyyi.winlifer.su
 127.0.0.1	wdhsxte.forumcircle.com
 127.0.0.1	webcomelook.ru
@@ -7489,7 +7444,6 @@
 127.0.0.1	wjoin.ru
 127.0.0.1	womans-viagra.ru
 127.0.0.1	woodmagnets.net
-127.0.0.1	woodsilvergold.com
 127.0.0.1	worknewexpert123.ru
 127.0.0.1	worknewexpert335.ru
 127.0.0.1	world-rx.com
@@ -8752,8 +8706,6 @@
 127.0.0.1	www.cbm.xn--80aglaiio2ee.xn--p1ai
 127.0.0.1	www.cbustamanteb.xn--80abpywo0h.xn--p1ai
 127.0.0.1	www.cbyc.discountforuma.su
-127.0.0.1	www.cdn-cloud.pw
-127.0.0.1	www.cdnanalytics.net
 127.0.0.1	www.cdsales.xn--90atdqz2d.xn--p1ai
 127.0.0.1	www.cdssf.com
 127.0.0.1	www.cdurable.info
@@ -9278,7 +9230,6 @@
 127.0.0.1	www.corillanell.com
 127.0.0.1	www.corimicaela.ru
 127.0.0.1	www.corinnakassey.su
-127.0.0.1	www.cornerstone-arch.com
 127.0.0.1	www.corniemerrily.ru
 127.0.0.1	www.cortneywilmette.ru
 127.0.0.1	www.costanzaandi.su
@@ -9410,7 +9361,6 @@
 127.0.0.1	www.dietreviews.name
 127.0.0.1	www.diflucan.ws
 127.0.0.1	www.diflucanenligne.com
-127.0.0.1	www.digitalgoldrush.club
 127.0.0.1	www.direct-pharm.com
 127.0.0.1	www.direct123rxbest.ru
 127.0.0.1	www.directaaapharm.ru
@@ -10150,7 +10100,6 @@
 127.0.0.1	www.generiqueviagra.ws
 127.0.0.1	www.genevievecarmelina.ru
 127.0.0.1	www.geniaamara.su
-127.0.0.1	www.genieclicks.co.uk
 127.0.0.1	www.gennaclarisse.com
 127.0.0.1	www.genpills.to
 127.0.0.1	www.genuinesteroids.com
@@ -10344,7 +10293,6 @@
 127.0.0.1	www.gsviagraridfj.com
 127.0.0.1	www.gtoucheque.xn--80arcbgt0b.xn--p1ai
 127.0.0.1	www.gtviagracan.com
-127.0.0.1	www.guaranteedmoneysystemapp.com
 127.0.0.1	www.guglielmajazmin.su
 127.0.0.1	www.guineveredrucie.ru
 127.0.0.1	www.guineverekaty.su
@@ -11333,7 +11281,6 @@
 127.0.0.1	www.malindegrete.ru
 127.0.0.1	www.malindestephie.com
 127.0.0.1	www.malissiaxenia.be
-127.0.0.1	www.mama-framework.com
 127.0.0.1	www.man-life.ru
 127.0.0.1	www.mandieerminie.asia
 127.0.0.1	www.maniet.net
@@ -13217,7 +13164,6 @@
 127.0.0.1	www.shopyourdream.su
 127.0.0.1	www.shopyourlife.ru
 127.0.0.1	www.shoshanaeden.su
-127.0.0.1	www.shourve.com
 127.0.0.1	www.showme.pp.ua
 127.0.0.1	www.showvipevent.ru
 127.0.0.1	www.showyourmuscles.com
@@ -13646,7 +13592,6 @@
 127.0.0.1	www.theprivateinc.ru
 127.0.0.1	www.theprivateoutlet.ru
 127.0.0.1	www.theremedialshop.ru
-127.0.0.1	www.theresevit.com
 127.0.0.1	www.therineedna.ru
 127.0.0.1	www.therxbest.ru
 127.0.0.1	www.thesafevalue.su
@@ -13658,7 +13603,6 @@
 127.0.0.1	www.thesmartstore.ru
 127.0.0.1	www.thetrustedsale.ru
 127.0.0.1	www.theworldpharmacyonline.com
-127.0.0.1	www.thirtykchallenge.com
 127.0.0.1	www.thjsildenafiljkvc.com
 127.0.0.1	www.thomasinanallise.ru
 127.0.0.1	www.thothconsulting.com
@@ -15086,7 +15030,6 @@
 127.0.0.1	zariaharmony.com
 127.0.0.1	zawtcyiu.goodstoref.su
 127.0.0.1	zcgmliooju.hitmarketw.su
-127.0.0.1	zebra.zacorporates.com
 127.0.0.1	zesuue.yourshopw.su
 127.0.0.1	zh-yc.com
 127.0.0.1	zhageozmyi.superwinl.su
@@ -15123,4 +15066,4 @@
 127.0.0.1	zybanaustralia.com
 127.0.0.1	zyprexa.ws
 127.0.0.1	zyrtecaustralia.net
-# Hosts: 15116
+# Hosts: 15059

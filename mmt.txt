@@ -219,6 +219,7 @@
 127.0.0.1	apetisant.ro
 127.0.0.1	app.maverik.com
 127.0.0.1	appsapkapp.com
+127.0.0.1	aquacard.co.uk
 127.0.0.1	arcamaxads.2cook.hop.clickbank.net
 127.0.0.1	arcamaxads.charleslin.hop.clickbank.net
 127.0.0.1	arcamaxads.college.hop.clickbank.net
@@ -856,6 +857,7 @@
 127.0.0.1	expenseminders.com
 127.0.0.1	expensesforless.com
 127.0.0.1	experience.co
+127.0.0.1	experts-exchange.com
 127.0.0.1	extrasalary.com
 127.0.0.1	extremecash.com
 127.0.0.1	f-monitor.ru
@@ -2312,6 +2314,7 @@
 127.0.0.1	thebasil.com
 127.0.0.1	thecloudharvester.com
 127.0.0.1	thecounter.de
+127.0.0.1	thedailybeast.com
 127.0.0.1	thedarkcavern.com
 127.0.0.1	thefamilyexpo.com
 127.0.0.1	thehan.net
@@ -2662,6 +2665,7 @@
 127.0.0.1	www.aolbills.com
 127.0.0.1	www.apetisant.ro
 127.0.0.1	www.appsapkapp.com
+127.0.0.1	www.aquacard.co.uk
 127.0.0.1	www.arealsexy.com
 127.0.0.1	www.armyranks.com
 127.0.0.1	www.artachnid.com
@@ -2981,6 +2985,7 @@
 127.0.0.1	www.expeneminders.com
 127.0.0.1	www.expenseminders.com
 127.0.0.1	www.expensesforless.com
+127.0.0.1	www.experts-exchange.com
 127.0.0.1	www.extremecocks.com
 127.0.0.1	www.extrememature.com
 127.0.0.1	www.f-monitor.ru
@@ -3778,6 +3783,7 @@
 127.0.0.1	www.theadultwire.com
 127.0.0.1	www.thecloudharvester.com
 127.0.0.1	www.thecrack.net
+127.0.0.1	www.thedailybeast.com
 127.0.0.1	www.thedarkcavern.com
 127.0.0.1	www.thegaymen.com
 127.0.0.1	www.thehitman.com
@@ -4049,6 +4055,7 @@
 127.0.0.1	yourpcdrivers.com
 127.0.0.1	yourps34free.com
 127.0.0.1	yoursay.com
+127.0.0.1	yoursecuretrade.com
 127.0.0.1	yousuckballs.com
 127.0.0.1	youthline-usa.com
 127.0.0.1	zambeel.com
@@ -4084,4 +4091,4 @@
 127.0.0.1	zwinkycuties.com
 127.0.0.1	zzzzz.cauction.hop.clickbank.net
 127.0.0.1	zzzzz.regmum.hop.clickbank.net
-# Hosts: 4077
+# Hosts: 4084
