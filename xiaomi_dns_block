@@ -1,10 +1,7 @@
 # This is a DNS blocklist for the PiHole (https://pi-hole.net/) to block unnecessary connections to Xiaomi.
 # 
-# License: GPL-3.0-or-later
-#
-# New Git Repo https://github.com/unknownFalleN/xiaomi-dns-blocklist 
-# There I will also add further lists e.g. all subdomains. 
-# Please use the list from the new repo, I will not maintain both lists and delete them here sometime
+# Original Git Repo https://github.com/unknownFalleN/xiaomi-dns-blocklist 
+
 # 
 # Please help to collect domains!
 
